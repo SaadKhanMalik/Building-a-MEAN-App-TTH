@@ -1,0 +1,27 @@
+{
+  "name": "mean-todo-skm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaadKhanMalik/Building-a-MEAN-App-TTH.git"
+  },
+  "keywords": [
+    "todo",
+    "test",
+    "app"
+  ],
+  "author": "SKM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SaadKhanMalik/Building-a-MEAN-App-TTH/issues"
+  },
+  "homepage": "https://github.com/SaadKhanMalik/Building-a-MEAN-App-TTH#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
